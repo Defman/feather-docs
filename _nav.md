@@ -1,2 +1,2 @@
-- [Introduction](./)
-- [Contributing](./contributing)
+- [Introduction](/)
+- [Contributing](/contributing)
